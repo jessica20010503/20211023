@@ -5,3 +5,9 @@ h1{
     color: darkorchid;
     font-size: 24px;
 }
+.intro{
+    background:cornflowerblue;
+    color: cornsilk;
+    padding: 10px;
+    border-radius: 20px;
+}
